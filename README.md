@@ -105,8 +105,8 @@ Diffusion Language Models (dLLMs) generate text via iterative denoising, offerin
 ---
 
 ## 🤝 Contributing
-
-Contributions are welcome! Please **Fork** this repository, **Add** your resource, and submit a **Pull Request**. Ensure dLLM-native papers include a note distinguishing them from general LLM safety work.
+If you have any questions, please contact our authors!
+masiyuan@westlake.edu.cn
 
 ## 🔗 Related Awesome Lists
 
